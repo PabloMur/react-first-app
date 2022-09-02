@@ -1,0 +1,11 @@
+.container{
+    width: 30%;
+    height: 40vh;
+    background-color: rgb(14, 14, 121);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: azure;
+    border-radius:15px ;
+}

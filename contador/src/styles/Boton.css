@@ -1,0 +1,25 @@
+button{
+    border: none;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.click{
+    background-color: greenyellow;
+}
+
+.click:hover{
+    background-color: #89cb24;
+    transition: all .2s ease;
+}
+
+.reinicio{
+    background-color: blueviolet;
+}
+
+.reinicio:hover{
+    background-color: #641ba7;
+    transition: all .2s ease;
+}
